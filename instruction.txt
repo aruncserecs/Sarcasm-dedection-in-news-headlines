@@ -1,0 +1,43 @@
+################ INSTRUCTION ###############
+
+###############Python##########################
+Python code is developed in Jupyter Notebook, so you can use 
+Jupyter notebook to run the code. Please use python 3.6 or above version.
+Below are the requirements for python code.
+
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+nltk
+bs4
+keras
+tensorflow
+collections
+string
+wordcloud
+
+###################### R ########################
+I have done the entire project in R Studio, so R code can be easily 
+run in R Studio. I used latest version of R.
+Below are the requirements for R code.
+
+tm
+data.table
+keras
+jsonlite
+tidyverse
+wordcloud
+e1071
+ggplot2
+caTools
+h2o
+caret
+
+Before run the code make sure you have install all the requierd library
+
+When the installetion complete just pass the data set path into the code. after that code will work fine in both R and python.
+
+###############   THANK YOU #################
